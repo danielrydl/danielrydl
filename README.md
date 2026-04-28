@@ -1,16 +1,61 @@
-## Hi there 👋
+# Daniel Rydl
 
-<!--
-**danielrydl/danielrydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Developer | Web • Backend • Automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🇬🇧 English
+
+Hi, I’m Daniel Rydl — a developer focused on building modern web applications, backend systems, and automation tools that make work faster and smarter.
+
+I enjoy turning ideas into real products, optimizing workflows, and connecting technology with practical use cases.
+
+### 💻 What I do
+- Web application development
+- Backend systems & APIs
+- Process automation
+- Digital product development
+
+### 🌱 Currently focused on
+- Modern web technologies
+- System automation & integrations
+- Improving performance & scalability
+- Building useful digital tools
+
+### ⚡ Tech stack
+`JavaScript` · `React` · `Node.js` · `PHP` · `APIs` · `Git` · `Docker`
+
+### 📫 Contact
+🌍 danielrydl.eu  
+📧 hello@danielrydl.eu  
+
+---
+
+## 🇨🇿 Česky
+
+Ahoj, jsem Daniel Rydl — vývojář zaměřený na moderní webové aplikace, backend systémy a automatizace, které zrychlují a zjednodušují práci.
+
+Baví mě přetvářet nápady do funkčních produktů, optimalizovat procesy a propojovat technologie s reálným využitím.
+
+### 💻 Co dělám
+- Vývoj webových aplikací
+- Backend systémy a API
+- Automatizace procesů
+- Tvorba digitálních produktů
+
+### 🌱 Aktuálně se zaměřuji na
+- Moderní webové technologie
+- Automatizace a integrace systémů
+- Výkon a škálovatelnost
+- Vývoj užitečných nástrojů
+
+### ⚡ Tech stack
+`JavaScript` · `React` · `Node.js` · `PHP` · `API` · `Git` · `Docker`
+
+### 📫 Kontakt
+🌍 danielrydl.eu  
+📧 hello@danielrydl.eu  
+
+---
+
+## 🔥 Building systems that save time and scale with you.
