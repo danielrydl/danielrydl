@@ -1,46 +1,35 @@
-# Daniel Rydl
+# Hi, I’m Daniel 👋
 
-## 🚀 Developer | Web • Servers • Homelab • AI • Networking  
-⚡ Building systems that run reliably, scale well, and make sense.
+I’m a developer and IT enthusiast focused on **self-hosted infrastructure, Docker, Proxmox, web development, and networking**.
 
----
+I enjoy building systems that actually run in real environments — from homelabs and virtualized infrastructure to web platforms and automation tools. A big part of my work is connecting development with infrastructure: building websites and applications, then deploying and managing them in containerized or virtualized environments.
 
-## 🇬🇧 About me
-
-I work with web technologies, server administration, homelab infrastructure, and network systems. I enjoy building modern and functional websites while also understanding what happens behind the scenes — from servers to network communication.
-
-I actively use AI tools like ChatGPT, Copilot, Claude, and others in development, automation, and problem-solving. They help me work faster, design better solutions, and learn new technologies more efficiently.
-
-In my free time, I focus on my homelab, where I experiment with Docker, virtualization, and self-hosted services. I’m interested in automation, monitoring, and building reliable systems. Outside of tech, I’m also a big gamer and enjoy exploring virtual worlds.
+I also actively use AI tools like ChatGPT, Copilot, Claude, Gemini, and Grok to speed up development, automate workflows, and explore new technologies more efficiently. Outside of development, I spend time on gaming-related projects and experimenting in my homelab.
 
 ---
 
-## 🇨🇿 O mně
+## 🌐 Web
 
-Zabývám se webovými technologiemi, správou serverů, homelabem a síťovou infrastrukturou. Baví mě vytvářet moderní a funkční webové stránky a zároveň rozumět tomu, co se děje „na pozadí“ — od serverů po síťovou komunikaci.
-
-Aktivně využívám AI nástroje jako ChatGPT, Copilot, Claude a další při vývoji, automatizaci i řešení technických problémů. Pomáhají mi zrychlit práci, lépe navrhovat řešení a učit se nové technologie efektivněji.
-
-Ve volném čase se věnuji svému homelabu, kde experimentuji s Dockerem, virtualizací a self-hostingem různých služeb. Zajímá mě automatizace, monitoring a budování spolehlivých systémů. Kromě toho jsem také velký hráč her a rád objevují virtuální světy.
+👉 https://danielrydl.eu  
+👉 https://danielrydl.eu/webove-stranky
+👉 https://danielrydl.eu/projekty
 
 ---
 
-## ⚙️ Skills & Focus
+## 🚀 Website Projects
 
-### Web Technologies
-HTML · CSS · WordPress
+Gamer Shop  
+Cyberpunk 2077  
+Assassin’s Creed Odyssey  
+Digital Prints  
+The Witcher 3: Wild Hunt  
+Rydl JS  
 
-### Homelab & Infrastructure
-Docker · Proxmox · Windows · Linux
+---
 
-### Server Management
-Virtualization · Automation · Monitoring
+## 🛠️ Tech Stack
 
-### Networking
-VPN · DNS · DHCP · Firewall
-
-### AI Tools
-ChatGPT · Claude · Copilot · Gemini · Grok
-
-### Automation
-Scripts · Workflows · Efficiency
+Docker · Docker Compose · Proxmox · Linux · Virtualization  
+WordPress · HTML · CSS · JavaScript · Bootstrap  
+DNS · DHCP · VPN · Networking · Firewalls  
+Automation · APIs · Self-hosted systems
