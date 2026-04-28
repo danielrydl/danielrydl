@@ -11,7 +11,7 @@ I also actively use AI tools like ChatGPT, Copilot, Claude, Gemini, and Grok to 
 ## 🌐 Web
 
 👉 https://danielrydl.eu  
-👉 https://danielrydl.eu/webove-stranky
+👉 https://danielrydl.eu/webove-stranky\n
 👉 https://danielrydl.eu/projekty
 
 ---
