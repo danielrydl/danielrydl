@@ -1,61 +1,47 @@
 # Daniel Rydl
 
-## 🚀 Developer | Web • Backend • Automation
+## 🚀 Developer | Web • Servers • Homelab • AI • Networking
 
 ---
 
-## 🇬🇧 English
+## 🇬🇧 About me
 
-Hi, I’m Daniel Rydl — a developer focused on building modern web applications, backend systems, and automation tools that make work faster and smarter.
+I work with web technologies, server administration, homelab infrastructure, and network systems. I enjoy building modern and functional websites while also understanding what happens behind the scenes — from servers to network communication.
 
-I enjoy turning ideas into real products, optimizing workflows, and connecting technology with practical use cases.
+I actively use AI tools like ChatGPT, Copilot, Claude, and others in development, automation, and problem-solving. They help me work faster, design better solutions, and learn new technologies more efficiently.
 
-### 💻 What I do
-- Web application development
-- Backend systems & APIs
-- Process automation
-- Digital product development
-
-### 🌱 Currently focused on
-- Modern web technologies
-- System automation & integrations
-- Improving performance & scalability
-- Building useful digital tools
-
-### ⚡ Tech stack
-`JavaScript` · `React` · `Node.js` · `PHP` · `APIs` · `Git` · `Docker`
-
-### 📫 Contact
-🌍 danielrydl.eu  
-📧 hello@danielrydl.eu  
+In my free time, I focus on my homelab, where I experiment with Docker, virtualization, and self-hosted services. I’m interested in automation, monitoring, and building reliable systems. I’m also a big gamer and enjoy exploring virtual worlds outside of tech.
 
 ---
 
-## 🇨🇿 Česky
+### ⚙️ Web Technologies
+HTML · CSS · WordPress
 
-Ahoj, jsem Daniel Rydl — vývojář zaměřený na moderní webové aplikace, backend systémy a automatizace, které zrychlují a zjednodušují práci.
+### 🖥️ Homelab
+Docker · Proxmox · Windows · Linux
 
-Baví mě přetvářet nápady do funkčních produktů, optimalizovat procesy a propojovat technologie s reálným využitím.
+### 🧠 Server Management
+Virtualization · Automation · Monitoring
 
-### 💻 Co dělám
-- Vývoj webových aplikací
-- Backend systémy a API
-- Automatizace procesů
-- Tvorba digitálních produktů
+### 🌐 Networking
+VPN · DNS · DHCP · Firewall
 
-### 🌱 Aktuálně se zaměřuji na
-- Moderní webové technologie
-- Automatizace a integrace systémů
-- Výkon a škálovatelnost
-- Vývoj užitečných nástrojů
+### 🤖 AI Tools
+ChatGPT · Gemini · Claude · Copilot · Grok
 
-### ⚡ Tech stack
-`JavaScript` · `React` · `Node.js` · `PHP` · `API` · `Git` · `Docker`
-
-### 📫 Kontakt
-🌍 danielrydl.eu  
-📧 hello@danielrydl.eu  
+### 🔧 Automation
+Scripts · Workflows · Efficiency
 
 ---
 
-## 🔥 Building systems that save time and scale with you.
+## 🇨🇿 O mně
+
+Zabývám se webovými technologiemi, správou serverů, homelabem a síťovou infrastrukturou. Baví mě vytvářet moderní a funkční webové stránky a zároveň rozumět tomu, co se děje „na pozadí“ — od serverů po síťovou komunikaci.
+
+Aktivně využívám AI nástroje jako ChatGPT, Copilot, Claude a další při vývoji, automatizaci i řešení technických problémů. Pomáhají mi zrychlit práci, lépe navrhovat řešení a učit se nové technologie efektivněji.
+
+Ve volném čase se věnuji svému homelabu, kde experimentuji s Dockerem, virtualizací a self-hostingem různých služeb. Zajímá mě automatizace, monitoring a budování spolehlivých systémů. Kromě toho jsem také velký hráč her a rád objevují virtuální světy mimo technologie.
+
+---
+
+## ⚡ Building systems that run, scale, and actually make sense.
